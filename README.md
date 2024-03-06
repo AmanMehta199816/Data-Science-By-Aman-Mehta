@@ -20,7 +20,7 @@ Data science is an interdisciplinary field that utilizes scientific methods, alg
 
 - Python: Main programming language used for data analysis, modeling, and machine learning.
 - Jupyter Notebook: Interactive environment for data exploration, analysis, and visualization.
-- [Insert any other relevant technologies or frameworks]
+  
 
 ## Usage
 
@@ -34,6 +34,6 @@ Contributions to this repository are encouraged! Whether it's adding new project
 
 ## Contact
 
-For any questions, feedback, or inquiries about this repository, please contact [insert contact email or other relevant contact information].
+For any questions, feedback, or inquiries about this repository, please contact mehtaaman8108@gmail.com / contact No. +918851547364.
 
 Thank you for your interest in the Data Science repository! We hope you find it valuable and informative. Happy data exploring!
