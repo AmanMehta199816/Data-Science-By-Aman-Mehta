@@ -13,6 +13,7 @@ Welcome to the Data Science Resources repository! Whether you're just starting y
 7. [Community and Forums](#community-and-forums)
 
 ## Getting Started
+![SVTghuuetDdChg6qXq](https://github.com/AmanMehta199816/Data-Science-Code-Clouse-/assets/96304523/8b99ba41-7f7b-486e-bde4-8df3671a6172)
 
 If you're new to data science, start with these resources to understand the foundational concepts:
 
