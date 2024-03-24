@@ -34,6 +34,7 @@ Dive deeper into machine learning techniques and algorithms with these resources
 - [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning): A popular online course that covers machine learning concepts and algorithms, taught by Stanford professor Andrew Ng.
 
 ## Data Visualization
+![ScaKyqnCrQM4U](https://github.com/AmanMehta199816/Data-Science-Code-Clouse-/assets/96304523/0261b90f-7c41-4d6c-ba7e-aeff900c4453)
 
 Learn how to effectively visualize and communicate data with these resources:
 
