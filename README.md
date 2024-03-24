@@ -1,4 +1,4 @@
-# Data Science Resources Repository
+# Aman Mehta - Data Science Resources Repository
 
 Welcome to the Data Science Resources repository! Whether you're just starting your journey in data science or looking to advance your skills in machine learning, statistics, and data analysis, this repository aims to provide you with a curated list of resources to help you succeed in the field of data science.
 
